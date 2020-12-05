@@ -8,7 +8,6 @@
 *.dat
 *.tar.gz
 *.rar
-*.jar
 .idea
 */target/
 */target/**
@@ -16,13 +15,11 @@
 .classpath
 .project
 .settings/
-target/
 
 ### STS ###
 .apt_generated
 .classpath
 .factorypath
-.project
 .settings
 .springBeans
 .sts4-cache
@@ -31,12 +28,9 @@ target/
 target/
 *.class
 *.jar
-*.war
-*.ear
 *.logs
 *.iml
 .idea/
-.eclipse
 null/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -55,14 +49,5 @@ buildNumber.properties
 /dist/
 /nbdist/
 /.nb-gradle/
-
-
-# ignore everything ...
-/*
-# ... but the following
-!/.profile
-!/.bash_rc
-!/.bash_profile
-!/.curlrc
 
 

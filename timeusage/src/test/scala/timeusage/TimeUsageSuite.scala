@@ -1,0 +1,4 @@
+package timeusage
+
+class TimeUsageSuite {
+}
