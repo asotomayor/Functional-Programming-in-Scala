@@ -1,1 +1,0 @@
-# Spark-Scala Functional Programming
